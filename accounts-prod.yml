@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs for PROD "
   contactDetails:
     name: "ABCD - Product Owner"
-    email: "john@eazybank.com"
+    email: "{cipher}64b878230ed1e579baac1a5d5caf0a2cd17da24f2af7c5fbd5d39d6226f0981eb8e52a23d6d05a656b479c607e57d3df"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
